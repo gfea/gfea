@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gfea
+- 👋 Hi, I’m Galeh Fatma E.A
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Laravel / NodeJs
 - 📫 How to reach me at galeh.fatma@gmail.com
