@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Galeh Fatma E.A
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Laravel / NodeJs
+- 🌱 I’m currently learning Flutter / NodeJs
 - 📫 How to reach me at galeh.fatma@gmail.com
 
 <!---
